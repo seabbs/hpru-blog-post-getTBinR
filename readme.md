@@ -33,7 +33,7 @@ overhead may be too much for many users.
 ## The package: getTBinR
 
 [`getTBinR`](https://doi.org/10.21105/joss.01260) (Abbott 2019) is an
-open-source [R package](.%20https://www.R-project.org/) (R Core Team
+open-source [R package](https://www.R-project.org/) (R Core Team
 2019) that facilitates working with data collected by the
 [WHO](https://www.who.int/tb/country/data/download/en/) (WHO) on the
 epidemiology of tuberculosis (TB). All data is freely available from the
